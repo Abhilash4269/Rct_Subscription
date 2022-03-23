@@ -1,0 +1,27 @@
+ul {
+  list-style: none;
+}
+
+
+/* ul li:before {
+  content: '  ✓    ';
+} */
+
+b{
+  color: rgb(126, 123, 118);
+  font-size:small;
+}
+
+h1{
+  font-size: 40px;
+}
+
+.month{
+  font-size: small;
+}
+
+
+.cross{
+  color: rgb(140, 142, 144)!important;
+  opacity: 0.5;
+}
